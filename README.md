@@ -5,7 +5,11 @@ As a creative and analytical person, I am highly motivated to work in a career t
 
 <ul>
   <li>Currently developing my skills on React.js and creating an online shop to sell digital products for architecture offices and for all the other creative people out there!</li>
-</ul>
+</ul><br/>
+
+<div>
+  <a href="https://www.linkedin.com/in/elifiremgeldry/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25px"></a>
+</div>
 
 <h2> Skills</h2>
 <table>
