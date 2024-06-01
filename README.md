@@ -73,7 +73,9 @@ As a creative and analytical person, I am highly motivated to work in a career t
 
 [![My Skills](https://skillicons.dev/icons?i=ai,ps,vscode&perline=3)](https://skillicons.dev) <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+<h2>Stats</h2>
+
+![Irem's GitHub stats](https://github-readme-stats.vercel.app/api?username=iremgeldry&show_icons=true&theme=radical)
 
 
 
