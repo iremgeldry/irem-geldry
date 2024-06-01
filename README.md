@@ -38,8 +38,6 @@ As a creative and analytical person, I am highly motivated to work in a career t
       />
       <br /><strong>Sass</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" height="108" width="108">
       <img
         src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg"
@@ -67,9 +65,9 @@ As a creative and analytical person, I am highly motivated to work in a career t
       />
       <br /><strong>CSS3</strong>
   </tr>
-</table><br/>
+</table>
 
-[![My Skills](https://skillicons.dev/icons?i=ai,ps,vscode&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ai,ps,vscode&perline=3)](https://skillicons.dev) <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
