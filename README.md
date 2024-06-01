@@ -8,6 +8,70 @@ As a creative and analytical person, I am highly motivated to work in a career t
 </ul>
 
 <h2> Skills</h2>
+<table>
+  <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
+        width="48"
+        height="48"
+        alt="JavaScript"
+      />
+      <br /><strong>JavaScript</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        width="48"
+        height="48"
+        alt="React"
+      />
+      <br /><strong>React</strong>
+    </td>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Sass.svg"
+        width="48"
+        height="48"
+        alt="Tailwind"
+      />
+      <br /><strong>Sass</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg"
+        width="48"
+        height="48"
+        alt="Git"
+      />
+      <br /><strong>Bootstrap</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg"
+        width="48"
+        height="48"
+        alt="Npm"
+      />
+      <br /><strong>HTML</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
+        width="48"
+        height="48"
+        alt="CSS3"
+      />
+      <br /><strong>CSS3</strong>
+  </tr>
+</table><br/>
+
+[![My Skills](https://skillicons.dev/icons?i=ai,ps,vscode&perline=3)](https://skillicons.dev)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 
